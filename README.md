@@ -1,4 +1,4 @@
-# pahse2_rover_project 🛰🏎
+# phase2_rover_project 🛰🏎
 
 ## Description 🧾
 
@@ -6,7 +6,10 @@ This project aims to process the incoming images from a rover moving on the surf
 
 At the end of phase 1 the rover must map at least 40% of the environment at 60% fidelity and locate at least one rock.
 
-At the end of phase 2 the rover must map at least 95% of the environment at 85% fidelity. All while colliding with the least number of obstacles.
+At the end of phase 2:
+1) the rover must map at least 95% of the environment at 85% fidelity.
+2) collecting 5 rocks and locating all of them
+3) least amount of hittings.
 
 ## Dependencies 📚
 
@@ -17,6 +20,6 @@ We used Python 3.10.4 for this project and Jupyter Notebook to process incoming 
 Download the rover simulator, clone this repo and run the command ```python drive_rover.py``` in the directory where ```drive_rover.py``` exists.
 The file called ```drive_rover.py``` is what you will use to navigate the environment in autonomous mode. This script calls functions from within ```perception.py``` and ```decision.py```.
 
-## Phase One Output
+## Phase Two Output
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/83096913/206876465-37bb0edb-1399-4ff8-9a6b-1b536cb9e0a1.png)
