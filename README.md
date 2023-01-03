@@ -19,7 +19,3 @@ We used Python 3.10.4 for this project and Jupyter Notebook to process incoming 
 
 Download the rover simulator, clone this repo and run the command ```python drive_rover.py``` in the directory where ```drive_rover.py``` exists.
 The file called ```drive_rover.py``` is what you will use to navigate the environment in autonomous mode. This script calls functions from within ```perception.py``` and ```decision.py```.
-
-## Phase Two Output
-
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/83096913/206876465-37bb0edb-1399-4ff8-9a6b-1b536cb9e0a1.png)
