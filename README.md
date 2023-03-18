@@ -1,4 +1,4 @@
-# phase2_rover_project 🛰🏎
+# rover_project 🛰🏎
 
 ## Description 🧾
 
